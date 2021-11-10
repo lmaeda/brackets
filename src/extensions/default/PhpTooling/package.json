@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "execa": "1.0.0",
-    "semver": "5.6.0"
+    "semver": "5.7.1"
   }
 }
