@@ -2,6 +2,6 @@
   "name": "brackets-javascript-code-hints",
   "dependencies": {
     "acorn": "5.1.1",
-    "tern": "0.21.0"
+    "tern": "0.24.3"
   }
 }
